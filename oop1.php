@@ -19,4 +19,5 @@ $objekNilai = new Nilai();
 $objekNilai -> setStatus(nilai: 40);
 echo $objekNilai -> getStatus();
 
+echo "hello dari repositori lokal";
 ?>
